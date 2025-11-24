@@ -49,3 +49,11 @@ Este livro não é um convite para voltar à burocracia do modelo Cascata. É um
 Se você acredita que a tecnologia precisa de fundamentos sólidos, lógica impecável e execução precisa...
 
 ### 🚀 Bem-vindo à trincheira. Bem-vindo ao Esquadrão.
+
+## 📑 Sumário do Livro (Em Construção)
+
+- [x] **Manifesto do Analista de Negócios Ágil** (Leia abaixo)
+- [x] **Capítulo 1: O Novo Ciclo de Vida (GenAI-First)** [Leia a Amostra Grátis](/Capitulo_01/Texto_Completo.md)
+- [ ] **Capítulo 2:** Da Estratégia ao Épico (GitHub Projects & AI)
+- [ ] **Capítulo 3:** Design de Experiência e Jornadas (UX + IA)
+...
