@@ -24,7 +24,7 @@ Uma visão sem engenharia sólida é alucinação. Alguém precisa traduzir o so
 
 Quem olha para a lógica? Quem blinda o sistema contra a ambiguidade? **É VOCÊ.**
 
-Este repositório e o livro que o acompanha são o fim da era do "garoto de recados". Estamos aqui para resgatar a Excelência Técnica usando armas modernas: **IA Generativa (Gemini)** e **GitHub Projects**.
+Este repositório e o livro que o acompanha são o fim da era do "garoto de recados". Estamos aqui para resgatar a Excelência Técnica usando armas modernas: **IA Generativa (Google AI Studio)** e **GitHub Projects**.
 
 Se você acredita que a tecnologia precisa de fundamentos sólidos...
 **Bem-vindo à trincheira. Bem-vindo ao Esquadrão.**
