@@ -5,42 +5,47 @@
 
 ---
 
-## 📢 MANIFESTO DO ANALISTA DE NEGÓCIOS DO FUTURO
+# 📢 MANIFESTO DO ANALISTA DE NEGÓCIOS DO FUTURO
 ### O Resgate da Engenharia na Era do Produto
 
 **PARE E OLHE AO SEU REDOR.**
 
-Vivemos a "Era de Ouro" da Gestão de Produto. O mercado foi inundado por termos sedutores: *Product Discovery, Growth Hacking, Continuous Delivery*. Mas se tudo evoluiu tanto, por que nossos softwares continuam sendo entregues com atraso e dívida técnica?
+Vivemos a "Era de Ouro" da Gestão de Produto. O mercado foi inundado por termos sedutores: *Product Discovery, Growth Hacking, Continuous Delivery, UX Research*. Nossas paredes estão cobertas de post-its coloridos e nossos discursos cheios de propósito.
+
+Mas se tudo evoluiu tanto, por que nossos softwares continuam sendo entregues com atraso? Por que as regras de negócio se quebram na primeira exceção? Por que a dívida técnica se acumula mais rápido do que conseguimos pagar?
 
 **Porque esquecemos o elo perdido.**
 
-Na corrida para definir o "Porquê" (Produto), negligenciamos o **"Como"** (Engenharia de Requisitos). O mercado criou a ilusão de que documentação é burocracia e que bastava colocar um PM e Devs numa sala. **Isso é uma mentira.**
+Na corrida para definir o "Porquê" (Estratégia de Produto) e o "Quem" (UX Persona), negligenciamos o **"Como"**.
 
-Uma visão sem engenharia sólida é alucinação. Alguém precisa traduzir o sonho na realidade binária do código.
+O mercado criou a ilusão de que a Engenharia de Software moderna dispensa especificações. Disseram que "documentação é burocracia". Disseram que bastava colocar um Product Manager e um time de Devs numa sala que a mágica aconteceria.
 
-* O **Product Manager** olha para o mercado.
-* O **Desenvolvedor** olha para a sintaxe.
-* O **Designer** olha para a experiência.
+> **Isso é uma mentira.**
 
-Quem olha para a lógica? Quem blinda o sistema contra a ambiguidade? **É VOCÊ.**
+Uma visão inspiradora sem engenharia sólida é apenas alucinação. Alguém precisa traduzir o sonho abstrato do Produto na realidade binária e impiedosa do Código.
 
-Este repositório e o livro que o acompanha são o fim da era do "garoto de recados". Estamos aqui para resgatar a Excelência Técnica usando armas modernas: **IA Generativa (Google AI Studio)** e **GitHub Projects**.
+* 🎯 **O Product Manager** olha para o mercado.
+* 💻 **O Desenvolvedor** olha para a sintaxe e a arquitetura.
+* 🎨 **O Designer** olha para a experiência e a emoção.
 
-Se você acredita que a tecnologia precisa de fundamentos sólidos...
-**Bem-vindo à trincheira. Bem-vindo ao Esquadrão.**
+Quem olha para a lógica? Quem garante que a regra de frete não vai quebrar se o usuário for VIP e morar no Acre ao mesmo tempo? Quem blinda o sistema contra a ambiguidade?
 
----
+### 🫵 É VOCÊ.
 
-## 📂 Estrutura do Repositório
+Por anos, o Analista de Negócios foi tratado como uma peça do passado, um "escriba de requisitos" ou um "garoto de recados" entre a área de negócios e a TI.
 
-Aqui você encontrará os artefatos práticos de cada capítulo:
+**Este livro é o fim dessa era.**
 
-* **[Capítulo 01](/Capitulo_01):** O Novo Ciclo de Vida (Prompts de Motor de Regras).
-* **[Capítulo 02](/Capitulo_02):** Da Estratégia ao Épico (Prompts de Análise Estratégica).
-* *(Novos capítulos serão adicionados conforme a escrita avança)*
+Estamos aqui para resgatar a Excelência Técnica e a Engenharia de Requisitos, mas não com as armas do passado. Não vamos usar documentos Word de 100 páginas que ninguém lê. Não vamos usar fluxogramas estáticos que morrem na gaveta.
 
----
+**O Analista de Negócios do Futuro é um Engenheiro de Valor.**
 
-### 📚 Sobre o Livro
-Este projeto é parte integrante do livro **"O Analista de Negócios do Futuro"**, escrito por **Abilio de Assis**.
-*(Link para compra na Amazon em breve)*
+* 🤖 Nós usamos **Inteligência Artificial (Google AI Studio)** para acelerar o raciocínio, não para substituir o pensamento.
+* 🏗️ Nós usamos **GitHub Projects** para gerenciar a entrega onde o código vive, derrubando a muralha entre gestão e execução.
+* ✅ Nós escrevemos **Especificações Vivas (BDD/Gherkin)** que testam o sistema automaticamente.
+
+Este livro não é um convite para voltar à burocracia do modelo Cascata. É um chamado para elevar a barra. É para o profissional que cansou de ver *hype* de produto gerar software medíocre.
+
+Se você acredita que a tecnologia precisa de fundamentos sólidos, lógica impecável e execução precisa...
+
+### 🚀 Bem-vindo à trincheira. Bem-vindo ao Esquadrão.
