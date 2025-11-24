@@ -1,6 +1,6 @@
-Olá, time de UI.
+Olá, time de UX.
 
-Como Arquiteto de Informação, estruturei a especificação abaixo focando na redução da carga cognitiva do usuário VIP. O objetivo é que ele perceba o benefício *imediatamente* ao entrar no carrinho, validando sua decisão de compra durante a alta concorrência da Black Friday.
+Estruturei a especificação abaixo focando na redução da carga cognitiva do usuário VIP. O objetivo é que ele perceba o benefício *imediatamente* ao entrar no carrinho, validando sua decisão de compra durante a alta concorrência da Black Friday.
 
 Aqui está a descrição do Wireframe de Baixa Fidelidade para a tela de **Carrinho de Compras (Versão VIP)**.
 
