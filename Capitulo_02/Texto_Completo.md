@@ -98,7 +98,7 @@ Em segundos, o AI Studio devolve uma análise estruturada. Veja como ele organiz
 ---
 
 #### ÉPICO 1: Reestruturar Motor de Cálculo de Frete
-**Prioridade:** Crítica
+**Prioridade:** Crítica. 
 **Narrativa do Épico:**
 Como Gerente Financeiro/E-commerce, Quero configurar regras de frete baseadas no valor do carrinho (ticket) e na zona geográfica de entrega, Para que a empresa pare de subsidiar entregas deficitárias e proteja a margem de lucro antes da Black Friday.
 
