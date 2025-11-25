@@ -24,9 +24,9 @@ O mercado criou a ilusão de que a Engenharia de Software moderna dispensa espec
 
 Uma visão inspiradora sem engenharia sólida é apenas alucinação. Alguém precisa traduzir o sonho abstrato do Produto na realidade binária e impiedosa do Código.
 
-* 🎯 **O Product Manager** olha para o mercado.
-* 💻 **O Desenvolvedor** olha para a sintaxe e a arquitetura.
-* 🎨 **O Designer** olha para a experiência e a emoção.
+* **O Product Manager** olha para o mercado.
+* **O Desenvolvedor** olha para a sintaxe e a arquitetura.
+* **O Designer** olha para a experiência e a emoção.
 
 Quem olha para a lógica? Quem garante que a regra de frete não vai quebrar se o usuário for VIP e morar no Acre ao mesmo tempo? Quem blinda o sistema contra a ambiguidade?
 
