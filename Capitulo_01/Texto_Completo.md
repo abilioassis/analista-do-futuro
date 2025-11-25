@@ -96,7 +96,7 @@ Sempre responda em formato JSON estrito:
 
 Agora, na caixa de chat (**User**), jogue os dados de teste:
 
-**Teste 1: Cenário Feliz (VIP)**
+**Teste 1: Cenário Feliz (VIP)**  
 `Input: Cliente: VIP, Valor: 600, Peso: 5kg, Estado: SP`
 
 *Resposta da IA:*
@@ -108,7 +108,7 @@ Agora, na caixa de chat (**User**), jogue os dados de teste:
 }
 ```
 
-**Teste 2: Cenário de Erro (Regra de Exceção)**
+**Teste 2: Cenário de Erro (Regra de Exceção)**  
 `Input: Cliente: VIP, Valor: 600, Peso: 5kg, Estado: AC`
 
 *Resposta da IA:*
@@ -120,7 +120,7 @@ Agora, na caixa de chat (**User**), jogue os dados de teste:
 }
 ```
 
-**Teste 3: Cálculo Matemático**
+**Teste 3: Cálculo Matemático**  
 `Input: Cliente: VIP, Valor: 350, Peso: 2kg, Estado: MS`
 
 *Resposta da IA:*
