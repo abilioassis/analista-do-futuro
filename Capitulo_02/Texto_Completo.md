@@ -168,7 +168,7 @@ Antes de criar os cards, precisamos de uma "casa" para o projeto.
 >
 > Quer ver como esse Board ficou na vida real, com todos os Épicos organizados?
 >
-> **[🔗 Acessar Board "Iniciativa: Checkout Dinâmico"](https://github.com/users/abilioassis/projects/1/views/1)**
+> **[Acessar Board "Iniciativa: Checkout Dinâmico"](https://github.com/users/abilioassis/projects/1/views/1)**
 >
 > *Nota:* Este link leva para o projeto vivo. Você verá o status atual da iniciativa (que pode já ter avançado para outras colunas conforme evoluímos nos próximos capítulos).
 
