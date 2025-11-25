@@ -36,7 +36,7 @@ Se você se reconhece nessa história, respire fundo. A culpa não é sua, é do
 
 ---
 
-## 2. A Solução Tática: o Ciclo GenAI-First 🤖
+## 2. A Solução Tática: o Ciclo GenAI-First
 
 O modelo tradicional (Cascata ou o "Scrum Fake" que muitas empresas praticam) opera em uma linha de montagem linear e cega:
 
@@ -46,7 +46,7 @@ Isso é lento. Isso é caro. Isso é suicídio corporativo na era da IA.
 
 A abordagem **GenAI-First** muda o jogo. Nós não escrevemos mais sobre o software. Nós usamos a IA para criar uma versão preliminar da lógica imediatamente.
 
-### ⚡ A Diferença Brutal
+### A Diferença Brutal
 
 | Característica | Abordagem Jurássica 🦕 | Abordagem Analista do Futuro 🚀 |
 | :--- | :--- | :--- |
@@ -58,7 +58,7 @@ Neste novo ciclo, o Analista de Negócios (Business Analyst - BA) deixa de ser u
 
 ---
 
-## 3. Mão na Massa: o Google AI Studio e a "Alma Do Projeto" 🛠️
+## 3. Mão na Massa: o Google AI Studio e a "Alma Do Projeto"
 
 Esqueça a ideia de que você precisa de assinaturas corporativas caras. A revolução da IA não é sobre quem tem o maior orçamento, é sobre quem tem o melhor método.
 
@@ -139,7 +139,7 @@ Você acabou de prototipar e validar uma regra de negócio complexa em 3 minutos
 
 ---
 
-## 4. Estudo de Caso: TechBrazil e a Rebelião Do Analista 💼
+## 4. Estudo de Caso: TechBrazil e a Rebelião Do Analista
 
 **Local:** Sala de Reuniões da Diretoria.  
 **Clima:** Tenso. Ar condicionado no máximo.
