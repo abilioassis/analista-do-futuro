@@ -164,6 +164,14 @@ Antes de criar os cards, precisamos de uma "casa" para o projeto.
 3.  Na janela de templates, localize a seção *Featured* e selecione **Kanban**.
 4.  Defina o nome do projeto como: `Iniciativa: Checkout Dinâmico` e clique em **Create**.
 
+> **VISÃO TÁTICA: O QUADRO EM AÇÃO**
+>
+> Quer ver como esse Board ficou na vida real, com todos os Épicos organizados?
+>
+> **[🔗 Acessar Board "Iniciativa: Checkout Dinâmico"](https://github.com/users/abilioassis/projects/1/views/1)**
+>
+> *Nota:* Este link leva para o projeto vivo. Você verá o status atual da iniciativa (que pode já ter avançado para outras colunas conforme evoluímos nos próximos capítulos).
+
 ### 2. Criando o Épico
 1.  Na coluna **Backlog**, clique no botão `+ Add item` e selecione **Create new issue**.
 2.  **Título:** Cole o título gerado pela IA: `Reestruturar Motor de Cálculo de Frete`.
