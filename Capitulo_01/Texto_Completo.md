@@ -1,6 +1,6 @@
 # 📘 CAPÍTULO 1: O NOVO CICLO DE VIDA (GENAI-FIRST)
 
-### 🎯 OBJETIVOS TÁTICOS DA MISSÃO
+### OBJETIVOS TÁTICOS DA MISSÃO
 
 *   Identificar a falência do modelo tradicional de requisitos (o **"Cemitério de Documentos"**).
 *   Compreender a mudança de paradigma: de *"Escrever sobre o Software"* para **"Prototipar a Regra"**.
@@ -167,7 +167,7 @@ O silêncio na sala é ensurdecedor. Você acabou de tirar o projeto do "Cemité
 
 ---
 
-## 5. Resumo Do Comandante 🎖️
+## 5. Resumo do Comandante 🎖️
 
 Leve isto para o campo de batalha hoje:
 
