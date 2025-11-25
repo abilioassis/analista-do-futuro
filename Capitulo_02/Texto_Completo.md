@@ -175,7 +175,7 @@ Antes de criar os cards, precisamos de uma "casa" para o projeto.
 ### 3. A Etiqueta de Poder (Taxonomia)
 Antes de salvar, precisamos classificar este item.
 1.  Clique no ícone **Labels** na parte inferior da janela.
-2.  Digite `Epic` e selecione **Create new label**.
+2.  Digite `Epico` e selecione **Create new label**.
 3.  **Sugestão visual:** Escolha a cor **Roxo Escuro** (padrão de mercado para Épicos).
 4.  Repita o processo para criar a label `Prioridade: Alta` (Cor: Vermelha).
 5.  Clique no botão verde **Create**.
