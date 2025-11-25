@@ -40,9 +40,9 @@ Estamos aqui para resgatar a Excelência Técnica e a Engenharia de Requisitos, 
 
 **O Analista de Negócios do Futuro é um Engenheiro de Valor.**
 
-* 🤖 Nós usamos **Inteligência Artificial (Google AI Studio)** para acelerar o raciocínio, não para substituir o pensamento.
-* 🏗️ Nós usamos **GitHub Projects** para gerenciar a entrega onde o código vive, derrubando a muralha entre gestão e execução.
-* ✅ Nós escrevemos **Especificações Vivas (BDD/Gherkin)** que testam o sistema automaticamente.
+* Nós usamos **Inteligência Artificial (Google AI Studio)** para acelerar o raciocínio, não para substituir o pensamento.
+* Nós usamos **GitHub Projects** para gerenciar a entrega onde o código vive, derrubando a muralha entre gestão e execução.
+* Nós escrevemos **Especificações Vivas (BDD/Gherkin)** que testam o sistema automaticamente.
 
 Este livro não é um convite para voltar à burocracia do modelo Cascata. É um chamado para elevar a barra. É para o profissional que cansou de ver *hype* de produto gerar software medíocre.
 
