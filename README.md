@@ -53,7 +53,7 @@ Se você acredita que a tecnologia precisa de fundamentos sólidos, lógica impe
 ## 📑 Sumário do Livro (Em Construção)
 
 - [x] **Manifesto do Analista de Negócios Ágil** (texto acima)
-- [x] **Capítulo 1: O Novo Ciclo de Vida (GenAI-First)** [Leia a Amostra Grátis](/Capitulo_01/Texto_Completo.md)
+- [x] [**Capítulo 1: O Novo Ciclo de Vida (GenAI-First)**](/Capitulo_01/Texto_Completo.md)
 - [ ] **Capítulo 2:** Da Estratégia ao Épico (GitHub Projects & AI)
 - [ ] **Capítulo 3:** Design de Experiência e Jornadas (UX + IA)
 ...
