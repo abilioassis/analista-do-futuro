@@ -180,5 +180,5 @@ Leve isto para o campo de batalha hoje:
 ### PRÓXIMA MISSÃO
 **Como pegar a estratégia abstrata do Roberto (OKRs) e quebrá-la em Épicos que fazem sentido, usando a IA para não esquecer nada.**
 
-[➡️ Vire a página](#)
+[➡️ Avance para o Capítulo 2](https://github.com/abilioassis/analista-do-futuro/blob/main/Capitulo_02/Texto_Completo.md))
 ```
