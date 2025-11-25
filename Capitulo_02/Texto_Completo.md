@@ -113,7 +113,7 @@ Como Gerente Financeiro/E-commerce, Quero configurar regras de frete baseadas no
 
 ---
 
-### 🧠 A LÓGICA POR TRÁS DA ESTRUTURA (MINDSET DE COMBATE)
+### A LÓGICA POR TRÁS DA ESTRUTURA (MINDSET DE COMBATE)
 
 Talvez você se pergunte: *"Eu realmente preciso criar um Project Board inteiro só para três tickets?"*
 
@@ -145,7 +145,7 @@ Isso é gestão orientada a **Valor**, não a tarefas infinitas. O Analista do F
 
 ---
 
-## 4. Estudo de Caso: TechBrazil no GitHub 🐙
+## 4. Estudo de Caso: TechBrazil no GitHub
 
 Com a resposta da IA em mãos, vamos para a ferramenta real.
 
