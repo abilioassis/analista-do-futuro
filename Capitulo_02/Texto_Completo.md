@@ -93,7 +93,7 @@ Aperte **Run**. A IA vai transformar o pânico do Roberto em um plano de batalha
 
 ### O Resultado (A Mágica Acontece) ✨
 
-Em segundos, o Gemini devolve uma análise estruturada. Veja como ele organizou o caos do Roberto:
+Em segundos, o AI Studio devolve uma análise estruturada. Veja como ele organizou o caos do Roberto:
 
 ---
 
