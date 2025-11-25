@@ -214,4 +214,3 @@ Leve isto para o front:
 **Temos os Épicos. Agora precisamos desenhar a jornada do usuário. Mas cuidado: não vamos desenhar telas "bonitinhas". Vamos projetar experiências baseadas em dados.**
 
 [➡️ Avance para o Capítulo 3](#)
-```
