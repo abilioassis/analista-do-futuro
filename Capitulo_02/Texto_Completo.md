@@ -1,6 +1,6 @@
 # 📘 CAPÍTULO 2: DA ESTRATÉGIA AO ÉPICO (GITHUB PROJECTS & AI)
 
-### 🎯 OBJETIVOS TÁTICOS DA MISSÃO
+### OBJETIVOS TÁTICOS DA MISSÃO
 
 *   **Traduzir dialetos:** Converter "Financês" (OKRs e Metas de Lucro) em "Agilês" (Épicos e Issues).
 *   **Derrubar a "Grande Muralha":** Eliminar os silos entre a Gestão (Planilhas) e a Engenharia (Código) usando o GitHub Projects.
@@ -8,15 +8,15 @@
 
 ---
 
-## 1. O Problema Gerencial: A Grande Muralha 🧱
+## 1. O Problema Gerencial: a Grande Muralha 🧱
 
 Existe uma doença silenciosa nas empresas: a **Fragmentação de Contexto**.
 
 Observe o campo de batalha corporativo:
 
-*   👔 **A Diretoria** vive em planilhas de Excel e slides de PowerPoint.
-*   📋 **A Gerência** vive em ferramentas de tickets burocráticas (que os devs odeiam).
-*   💻 **O Time de Desenvolvimento** vive no GitHub/GitLab (onde o trabalho real acontece).
+*   **A Diretoria** vive em planilhas de Excel e slides de PowerPoint.
+*   **A Gerência** vive em ferramentas de tickets burocráticas (que os devs odeiam).
+*   **O Time de Desenvolvimento** vive no GitHub/GitLab (onde o trabalho real acontece).
 
 Entre esses grupos, existe uma **Grande Muralha**. A estratégia é definida no Excel, mas morre antes de chegar ao repositório de código. O desenvolvedor recebe uma tarefa (*"Mudar botão para azul"*) sem saber que a meta da empresa era *"Aumentar a conversão em 10%"*.
 
@@ -26,7 +26,7 @@ A solução do Analista de Negócios Ágil é brutalmente simples: **Se o códig
 
 ---
 
-## 2. Fundamentação Teórica: A Pirâmide Simplificada 🔺
+## 2. Fundamentação Teórica: a Pirâmide Simplificada 🔺
 
 Para conectar o CEO ao Estagiário sem perder o sentido, usamos uma hierarquia de valor enxuta baseada nas melhores práticas de Análise de Negócios (Howard Podeswa):
 
@@ -46,11 +46,11 @@ Simplicidade é poder. Menos configuração, mais entrega.
 
 ---
 
-## 3. Mão Na Massa: O Tutorial Técnico 🛠️
+## 3. Mão na Massa: o Tutorial Técnico 🛠️
 
 Vamos voltar ao Google AI Studio. Mas atenção, soldado: precisamos fazer um ajuste crítico agora.
 
-### 🔄 PASSO 0: O RESET TÁTICO (CRÍTICO!)
+### PASSO 0: O RESET TÁTICO (CRÍTICO!)
 
 > [!IMPORTANT]
 > **ATENÇÃO:** Se você veio direto do Capítulo 1, sua IA ainda está configurada nas *System Instructions* para agir como um "Motor de Frete". Se você pedir uma análise estratégica agora, ela vai tentar calcular o frete do seu texto ou dar erro.
@@ -62,7 +62,7 @@ A IA é uma ferramenta multimodal. Você precisa trocar a chave.
 
 **Por que?** Queremos que a IA use sua criatividade total como consultora, sem as amarras de regras rígidas de cálculo.
 
-### 🌪️ PASSO 1: A ANÁLISE DO CAOS
+### PASSO 1: A ANÁLISE DO CAOS
 
 Agora que a "sala de guerra" está limpa, vamos lidar com o problema. Você recebeu um e-mail confuso do CEO Roberto.
 
@@ -91,7 +91,7 @@ FORMATO: Markdown pronto para copiar e colar.
 
 Aperte **Run**. A IA vai transformar o pânico do Roberto em um plano de batalha estruturado em segundos.
 
-### ✨ O Resultado (A Mágica Acontece)
+### O Resultado (A Mágica Acontece) ✨
 
 Em segundos, o Gemini devolve uma análise estruturada. Veja como ele organizou o caos do Roberto:
 
@@ -170,13 +170,13 @@ Antes de salvar, precisamos classificar este item.
 
 Leve isto para o front:
 
-*   🧠 **Domine o Context Switching:** A IA não é mágica, é uma ferramenta configurável. Saiba quando usar *System Instructions* (regras rígidas) e quando deixá-las vazias (análise criativa).
-*   🏷️ **Simplicidade no GitHub:** Não invente processos complexos. Um Épico é apenas uma Issue com uma etiqueta. Se é fácil de criar, é fácil de manter.
-*   🏗️ **Derrube a Muralha:** Nunca mantenha os requisitos em um lugar e o código em outro. A verdade deve ser única e centralizada.
+*   **Domine o Context Switching:** A IA não é mágica, é uma ferramenta configurável. Saiba quando usar *System Instructions* (regras rígidas) e quando deixá-las vazias (análise criativa).
+*   **Simplicidade no GitHub:** Não invente processos complexos. Um Épico é apenas uma Issue com uma etiqueta. Se é fácil de criar, é fácil de manter.
+*   **Derrube a Muralha:** Nunca mantenha os requisitos em um lugar e o código em outro. A verdade deve ser única e centralizada.
 
 ---
 
-### 🔜 PRÓXIMA MISSÃO
+### PRÓXIMA MISSÃO
 **Temos os Épicos. Agora precisamos desenhar a jornada do usuário. Mas cuidado: não vamos desenhar telas "bonitinhas". Vamos projetar experiências baseadas em dados.**
 
 [➡️ Avance para o Capítulo 3](#)
