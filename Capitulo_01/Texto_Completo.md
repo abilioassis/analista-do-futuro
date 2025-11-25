@@ -141,7 +141,7 @@ Você acabou de prototipar e validar uma regra de negócio complexa em 3 minutos
 
 ## 4. Estudo de Caso: TechBrazil e a Rebelião Do Analista 💼
 
-**Local:** Sala de Reuniões da Diretoria.
+**Local:** Sala de Reuniões da Diretoria.  
 **Clima:** Tenso. Ar condicionado no máximo.
 
 **Roberto (CEO):**
