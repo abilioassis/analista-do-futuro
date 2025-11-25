@@ -48,7 +48,7 @@ Este livro não é um convite para voltar à burocracia do modelo Cascata. É um
 
 Se você acredita que a tecnologia precisa de fundamentos sólidos, lógica impecável e execução precisa...
 
-### 🚀 Bem-vindo à trincheira. Bem-vindo ao Esquadrão.
+### Bem-vindo à trincheira. Bem-vindo ao Esquadrão.
 
 ## 📑 Sumário do Livro (Em Construção)
 
