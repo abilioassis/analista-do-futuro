@@ -182,6 +182,14 @@ Antes de salvar, precisamos classificar este item.
 
 **O Resultado:** Agora, quando o Desenvolvedor olhar o projeto, ele não vê um desejo vago. Ele vê uma Issue técnica, priorizada e documentada, vivendo dentro do repositório onde o código será escrito.
 
+> **👀 SPOILER ALERT: O ARTEFATO É VIVO**
+>
+> Abaixo, você encontra o link direto para esta Issue no nosso repositório real.
+>
+> **[🔗 Ver a Issue #1 no GitHub](https://github.com/abilioassis/analista-do-futuro/issues/1)**
+>
+> *Nota:* Ao clicar, você verá a Issue em seu estado **final e evoluído**. Ela poderá conter comentários e detalhes técnicos que vamos adicionar apenas nos próximos capítulos. Não se assuste! Isso é a prova de que, no método Ágil, a especificação cresce junto com o projeto.
+
 ---
 
 ## 5. Resumo do Comandante 🎖️
