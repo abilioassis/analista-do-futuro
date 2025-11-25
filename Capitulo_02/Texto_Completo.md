@@ -26,7 +26,7 @@ A solução do Analista de Negócios Ágil é brutalmente simples: **Se o códig
 
 ---
 
-## 2. Fundamentação Teórica: a Pirâmide Simplificada 🔺
+## 2. Fundamentação Teórica: a Pirâmide Simplificada
 
 Para conectar o CEO ao Estagiário sem perder o sentido, usamos uma hierarquia de valor enxuta baseada nas melhores práticas de Análise de Negócios (Howard Podeswa):
 
@@ -46,7 +46,7 @@ Simplicidade é poder. Menos configuração, mais entrega.
 
 ---
 
-## 3. Mão na Massa: o Tutorial Técnico 🛠️
+## 3. Mão na Massa: o Tutorial Técnico
 
 Vamos voltar ao Google AI Studio. Mas atenção, soldado: precisamos fazer um ajuste crítico agora.
 
