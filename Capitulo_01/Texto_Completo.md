@@ -9,7 +9,7 @@
 
 ---
 
-## 1. O Cenário De Caos: Bem-Vindo À "Empresa Jurássica Ltda" 🦖
+## 1. O Cenário de Caos: Bem-Vindo à "Empresa Jurássica Ltda" 🦖
 
 Imagine a cena. É sexta-feira, 17h.
 
@@ -36,7 +36,7 @@ Se você se reconhece nessa história, respire fundo. A culpa não é sua, é do
 
 ---
 
-## 2. A Solução Tática: O Ciclo GenAI-First 🤖
+## 2. A Solução Tática: o Ciclo GenAI-First 🤖
 
 O modelo tradicional (Cascata ou o "Scrum Fake" que muitas empresas praticam) opera em uma linha de montagem linear e cega:
 
@@ -54,11 +54,11 @@ A abordagem **GenAI-First** muda o jogo. Nós não escrevemos mais sobre o softw
 | **Validação** | Acontece meses depois (no QA). | Acontece em **segundos** (no chat com a IA). |
 | **Artefato** | Documento de Texto (Estático). | Prompt de Sistema + Testes (Vivo). |
 
-Neste novo ciclo, o Analista de Negócios deixa de ser um escritor e passa a ser um **Arquiteto de Prompts e Regras**. Você usa ferramentas como o Google AI Studio não para gerar texto (*"Escreva uma user story para mim"*), mas para simular o comportamento do sistema.
+Neste novo ciclo, o Analista de Negócios (Business Analyst - BA) deixa de ser um escritor e passa a ser um **Arquiteto de Prompts e Regras**. Você usa ferramentas como o Google AI Studio não para gerar texto (*"Escreva uma user story para mim"*), mas para simular o comportamento do sistema.
 
 ---
 
-## 3. Mão Na Massa: O Google AI Studio E A "Alma Do Projeto" 🛠️
+## 3. Mão na Massa: o Google AI Studio e a "Alma Do Projeto" 🛠️
 
 Esqueça a ideia de que você precisa de assinaturas corporativas caras. A revolução da IA não é sobre quem tem o maior orçamento, é sobre quem tem o melhor método.
 
@@ -139,7 +139,7 @@ Você acabou de prototipar e validar uma regra de negócio complexa em 3 minutos
 
 ---
 
-## 4. Estudo De Caso: TechBrazil E A Rebelião Do Analista 💼
+## 4. Estudo de Caso: TechBrazil e a Rebelião Do Analista 💼
 
 **Local:** Sala de Reuniões da Diretoria.
 **Clima:** Tenso. Ar condicionado no máximo.
@@ -171,13 +171,13 @@ O silêncio na sala é ensurdecedor. Você acabou de tirar o projeto do "Cemité
 
 Leve isto para o campo de batalha hoje:
 
-*   🛑 **Documentação Estática é Veneno:** Se não é executável, é apenas uma opinião. Pare de escrever redações e comece a escrever regras lógicas.
-*   🧪 **Simule antes de Codar:** Use o Google AI Studio para testar se sua regra de negócio faz sentido antes de incomodar o desenvolvedor.
-*   🏎️ **Velocidade é Segurança:** Ciclos de feedback curtos (minutos, não meses) reduzem o risco. O Analista que valida rápido, erra barato.
+*   **Documentação Estática é Veneno:** Se não é executável, é apenas uma opinião. Pare de escrever redações e comece a escrever regras lógicas.
+*   **Simule antes de Codar:** Use o Google AI Studio para testar se sua regra de negócio faz sentido antes de incomodar o desenvolvedor.
+*   **Velocidade é Segurança:** Ciclos de feedback curtos (minutos, não meses) reduzem o risco. O Analista que valida rápido, erra barato.
 
 ---
 
-### 🔜 PRÓXIMA MISSÃO
+### PRÓXIMA MISSÃO
 **Como pegar a estratégia abstrata do Roberto (OKRs) e quebrá-la em Épicos que fazem sentido, usando a IA para não esquecer nada.**
 
 [➡️ Vire a página](#)
