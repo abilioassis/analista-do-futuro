@@ -211,6 +211,6 @@ Leve isto para o front:
 ---
 
 ### PRÓXIMA MISSÃO
-**Aguarde para as próximas instruções.**
+**Descansar. Aguarde para as próximas instruções.**
 
 
