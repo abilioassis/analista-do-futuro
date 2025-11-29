@@ -57,5 +57,45 @@ Se você acredita que a tecnologia precisa de fundamentos sólidos, lógica impe
 - [**Manifesto do Analista de Negócios Ágil**](https://github.com/abilioassis/analista-do-futuro/blob/main/README.md)
 - [**Capítulo 1: O Novo Ciclo de Vida (GenAI-First)**](/Capitulo_01/Texto_Completo.md)
 - [**Capítulo 2:** Da Estratégia ao Épico (GitHub Projects & AI)](/Capitulo_02/Texto_Completo.md)
-- **Capítulo 3:** Design de Experiência e Jornadas (UX + IA)
+
 ...
+
+Com certeza! Você está certíssimo: **convidar visita com a casa bagunçada é pedir para a visita ir embora rápido.**
+
+Como o seu público-alvo (Analistas de Negócio, POs, Gerentes) pode não ter familiaridade profunda com comandos Git (clone, push, pull request via terminal), você precisa configurar o repositório para ser **o mais amigável possível via navegador**.
+
+Aqui está o passo a passo para deixar sua "casa pronta" no GitHub:
+
+---
+
+### 1. Ative a aba "Discussions" (Fundamental)
+As *Issues* (problemas) costumam assustar quem não é dev ("Parece que estou reportando um bug"). Já o *Discussions* funciona como um fórum/comunidade. É o lugar perfeito para debates conceituais sobre o livro.
+
+*   **Como fazer:**
+    1.  Vá no seu repositório > **Settings** (Configurações).
+    2.  Na seção "Features" (Geral), marque a caixinha **Discussions**.
+    3.  Clique em "Set up discussions" se aparecer, e pronto. Agora apareceu uma aba nova "Discussions" no topo do repo.
+
+### 2. Crie uma seção "Como Contribuir" no seu README
+Você precisa ensinar o caminho das pedras. Adicione esta seção logo após o Sumário do seu README.md:
+
+---
+
+## 🤝 Como Participar e Contribuir
+Este é um projeto vivo e colaborativo. Sua experiência de campo vale muito aqui. Existem 3 formas de você participar:
+
+**1. Discussões e Ideias (Nível Fácil)**
+Quer debater um conceito, discordar de um ponto ou sugerir um tópico novo sem mexer no texto?
+👉 **[Clique na aba Discussions](https://github.com/abilioassis/analista-do-futuro/discussions)** e crie um novo tópico. Vamos conversar por lá!
+
+**2. Sugestão de Edição Rápida (Nível Intermediário)**
+Encontrou um erro de digitação ou quer reescrever um parágrafo?
+1. Abra o arquivo do capítulo desejado.
+2. Clique no ícone de **Lápis (✏️)** no canto superior direito do arquivo.
+3. Faça sua alteração.
+4. Clique em "Commit changes" e escreva brevemente o que mudou.
+5. Isso abrirá automaticamente um **Pull Request** para eu aprovar.
+
+**3. Relatar Problemas (Issues)**
+Encontrou um link quebrado ou algo faltando?
+👉 Abra uma **Issue** na aba correspondente relatando o erro.
