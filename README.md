@@ -64,20 +64,17 @@ Se você acredita que a tecnologia precisa de fundamentos sólidos, lógica impe
 ---
 
 ## 🤝 Como Participar e Contribuir
-Este é um projeto vivo e colaborativo. Sua experiência de campo vale muito aqui. Existem 3 formas de você participar:
+Este é um projeto vivo e colaborativo. Sua experiência de campo vale muito aqui. Como este repositório simula um ambiente real de projeto (veja a aba Projects), nós mantemos as *Issues* reservadas para as simulações do livro.
 
-**1. Discussões e Ideias (Nível Fácil)**
-Quer debater um conceito, discordar de um ponto ou sugerir um tópico novo sem mexer no texto?
-👉 **[Clique na aba Discussions](https://github.com/abilioassis/analista-do-futuro/discussions)** e crie um novo tópico. Vamos conversar por lá!
+Para interagir conosco, use os canais abaixo:
 
-**2. Sugestão de Edição Rápida (Nível Intermediário)**
-Encontrou um erro de digitação ou quer reescrever um parágrafo?
-1. Abra o arquivo do capítulo desejado.
-2. Clique no ícone de **Lápis (✏️)** no canto superior direito do arquivo.
-3. Faça sua alteração.
-4. Clique em "Commit changes" e escreva brevemente o que mudou.
-5. Isso abrirá automaticamente um **Pull Request** para eu aprovar.
+**1. Bate-papo, Dúvidas e Reportar Erros**
+Quer debater um conceito, avisar sobre um link quebrado ou sugerir um tópico novo?
+👉 **[Clique na aba Discussions](https://github.com/abilioassis/analista-do-futuro/discussions)**. É o nosso fórum oficial.
 
-**3. Relatar Problemas (Issues)**
-Encontrou um link quebrado ou algo faltando?
-👉 Abra uma **Issue** na aba correspondente relatando o erro.
+**2. Sugestão de Edição Rápida (Para quem quer colocar a mão na massa)**
+Encontrou um erro de digitação e quer corrigir na hora?
+1. Abra o arquivo do capítulo.
+2. Clique no ícone de **Lápis (✏️)** no canto superior direito.
+3. Faça sua alteração e clique em "Commit changes".
+4. Isso abrirá automaticamente um **Pull Request** para eu aprovar.
