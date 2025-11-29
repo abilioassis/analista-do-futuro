@@ -60,12 +60,6 @@ Se você acredita que a tecnologia precisa de fundamentos sólidos, lógica impe
 
 ...
 
-Com certeza! Você está certíssimo: **convidar visita com a casa bagunçada é pedir para a visita ir embora rápido.**
-
-Como o seu público-alvo (Analistas de Negócio, POs, Gerentes) pode não ter familiaridade profunda com comandos Git (clone, push, pull request via terminal), você precisa configurar o repositório para ser **o mais amigável possível via navegador**.
-
-Aqui está o passo a passo para deixar sua "casa pronta" no GitHub:
-
 ---
 
 ### 1. Ative a aba "Discussions" (Fundamental)
