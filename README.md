@@ -25,7 +25,7 @@ O mercado criou a ilusão de que a Engenharia de Software moderna dispensa espec
 Uma visão inspiradora sem engenharia sólida é apenas alucinação. Alguém precisa traduzir o sonho abstrato do Produto na realidade binária e impiedosa do Código.
 
 * **O Product Manager** olha para o mercado (O Porquê).
-* **O Desenvolvedor** foca no código (OComo).
+* **O Desenvolvedor** foca no código (O Como).
 * **O Designer** foca na experiência (A Emoção).
 
 Mas quem conecta tudo isso? Quem é o generalista capaz de entender o negócio e traduzir para a máquina? Quem garante que a regra de frete não vai quebrar se o usuário for VIP e morar no Acre ao mesmo tempo? Quem blinda o sistema contra a ambiguidade?
@@ -52,26 +52,14 @@ Se você acredita que a tecnologia precisa de fundamentos sólidos, lógica impe
 
 ### Bem-vindo à trincheira. Bem-vindo ao Esquadrão.
 
+---
+
 ## 📑 Sumário do Livro (Em Construção)
 
 - [**Manifesto do Analista de Negócios Ágil**](https://github.com/abilioassis/analista-do-futuro/blob/main/README.md)
 - [**Capítulo 1: O Novo Ciclo de Vida (GenAI-First)**](/Capitulo_01/Texto_Completo.md)
 - [**Capítulo 2:** Da Estratégia ao Épico (GitHub Projects & AI)](/Capitulo_02/Texto_Completo.md)
-
-...
-
----
-
-### 1. Ative a aba "Discussions" (Fundamental)
-As *Issues* (problemas) costumam assustar quem não é dev ("Parece que estou reportando um bug"). Já o *Discussions* funciona como um fórum/comunidade. É o lugar perfeito para debates conceituais sobre o livro.
-
-*   **Como fazer:**
-    1.  Vá no seu repositório > **Settings** (Configurações).
-    2.  Na seção "Features" (Geral), marque a caixinha **Discussions**.
-    3.  Clique em "Set up discussions" se aparecer, e pronto. Agora apareceu uma aba nova "Discussions" no topo do repo.
-
-### 2. Crie uma seção "Como Contribuir" no seu README
-Você precisa ensinar o caminho das pedras. Adicione esta seção logo após o Sumário do seu README.md:
+- ... *(Novos capítulos em breve)*
 
 ---
 
