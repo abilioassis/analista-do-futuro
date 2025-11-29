@@ -213,4 +213,4 @@ Leve isto para o front:
 ### PRÓXIMA MISSÃO
 **Temos os Épicos. Agora precisamos desenhar a jornada do usuário. Mas cuidado: não vamos desenhar telas "bonitinhas". Vamos projetar experiências baseadas em dados.**
 
-➡️[Avance para o Capítulo 3](#)
+
