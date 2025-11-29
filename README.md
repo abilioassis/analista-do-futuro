@@ -1,5 +1,5 @@
 # O Analista de Negócios do Futuro
-### Da Estratégia ao Código com IA e DevOps
+### Da Estratégia ao Código com IA e DevOps: O Guia do Generalista Técnico
 
 > **Bem-vindo ao Repositório Oficial.** Este é o "Arsenal do Analista", contendo todos os prompts, templates e códigos apresentados no livro.
 
@@ -24,11 +24,11 @@ O mercado criou a ilusão de que a Engenharia de Software moderna dispensa espec
 
 Uma visão inspiradora sem engenharia sólida é apenas alucinação. Alguém precisa traduzir o sonho abstrato do Produto na realidade binária e impiedosa do Código.
 
-* **O Product Manager** olha para o mercado.
-* **O Desenvolvedor** olha para a sintaxe e a arquitetura.
-* **O Designer** olha para a experiência e a emoção.
+* **O Product Manager** olha para o mercado (O Porquê).
+* **O Desenvolvedor** foca no código (OComo).
+* **O Designer** foca na experiência (A Emoção).
 
-Quem olha para a lógica? Quem garante que a regra de frete não vai quebrar se o usuário for VIP e morar no Acre ao mesmo tempo? Quem blinda o sistema contra a ambiguidade?
+Mas quem conecta tudo isso? Quem é o generalista capaz de entender o negócio e traduzir para a máquina? Quem garante que a regra de frete não vai quebrar se o usuário for VIP e morar no Acre ao mesmo tempo? Quem blinda o sistema contra a ambiguidade?
 
 ### 🫵 É VOCÊ.
 
@@ -38,7 +38,9 @@ Por anos, o Analista de Negócios foi tratado como uma peça do passado, um "esc
 
 Estamos aqui para resgatar a Excelência Técnica e a Engenharia de Requisitos, mas não com as armas do passado. Não vamos usar documentos Word de 100 páginas que ninguém lê. Não vamos usar fluxogramas estáticos que morrem na gaveta.
 
-**O Analista de Negócios do Futuro é um Engenheiro de Valor.**
+**O Analista de Negócios do Futuro é o Generalista definitivo.**
+
+Ele atua como um **Engenheiro de Valor** que orquestra a IA.
 
 * Nós usamos **Inteligência Artificial (Google AI Studio)** para acelerar o raciocínio, não para substituir o pensamento.
 * Nós usamos **GitHub Projects** para gerenciar a entrega onde o código vive, derrubando a muralha entre gestão e execução.
